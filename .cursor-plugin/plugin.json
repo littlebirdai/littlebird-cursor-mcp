@@ -1,0 +1,19 @@
+{
+  "name": "littlebird",
+  "version": "0.1.0",
+  "description": "Connect Cursor to your Littlebird meetings and work memory.",
+  "author": {
+    "name": "Littlebird",
+    "email": "michael@littlebird.ai"
+  },
+  "homepage": "https://littlebird.ai",
+  "logo": "assets/littlebird-icon.png",
+  "keywords": [
+    "littlebird",
+    "meetings",
+    "productivity",
+    "work-memory"
+  ],
+  "repository": "https://github.com/littlebirdai/littlebird-cursor-mcp",
+  "license": "MIT"
+}
