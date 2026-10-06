@@ -50,7 +50,7 @@ Before marketplace submission, verify plugin discovery, OAuth sign-in, and tool 
 
 ## License
 
-The connector configuration and documentation are available under the [MIT license](LICENSE). The Littlebird icon and Littlebird names and trademarks are excluded from that license. This repository grants no license to Littlebird's hosted service or application source; use of the service is governed by Littlebird's applicable terms.
+The connector configuration and documentation are available under the [MIT license](LICENSE). The Littlebird icon and Littlebird names and trademarks are excluded from that license; see the [asset notice](assets/NOTICE.md). This repository grants no license to Littlebird's hosted service or application source; use of the service is governed by Littlebird's applicable terms.
 
 ## Links
 
